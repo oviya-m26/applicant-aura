@@ -10,7 +10,6 @@ Front-end prototype demonstrating an AI-based smart allocation engine for the PM
 ### Features
 - AI-style matchmaking (skills, sectors, locations, affirmative action, capacity)
 - Demo auth (works without backend)
-- Indian flag branding (favicon, logo, theme)
 
 ### Deploy
 - You can deploy only `frontend/ApplicantAura` to Netlify/Vercel. No backend required for demo.
